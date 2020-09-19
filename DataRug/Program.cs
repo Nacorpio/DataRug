@@ -1,5 +1,7 @@
 ﻿using System;
 
+using DataRug.Common;
+
 namespace DataRug
 {
     class Program
